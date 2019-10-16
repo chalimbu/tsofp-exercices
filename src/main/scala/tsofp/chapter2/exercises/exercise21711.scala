@@ -9,4 +9,5 @@ object exercise21711 extends App{
   def cartesian[I,J](p:Set[I],q:Set[J]):Set[(I,J)]={
     p.flatMap(x=>q.map(y=>(x,y)))
   }
+  println(cartesian(Set("a","b"),Set(10,20)))
 }
