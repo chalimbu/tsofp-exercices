@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise21712.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2176.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2177.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2178.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/ExtractDigitsFromSequence.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/digitsToInt.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/foldLeftExample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/Exercise2172.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2172.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercis2173.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2173.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise21711.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise21711.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2175.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2175.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2179.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2179.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +31,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -52,13 +45,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise21712">
-    <configuration name="exercise21710" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise21710" />
+  <component name="RunManager" selected="Application.ExtractDigitsFromSequence">
+    <configuration name="ExtractDigitsFromSequence" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.ExtractDigitsFromSequence" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="PATTERN" value="tsofp.chapter2.doneExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="digitsToInt" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.digitsToInt" />
+      <module name="tsofp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsofp.chapter2.doneExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,25 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2178" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2178" />
+    <configuration name="foldLeftExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.foldLeftExample" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exercise2179" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2179" />
-      <module name="tsofp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="PATTERN" value="tsofp.chapter2.doneExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExtractDigitsFromSequence" />
+        <item itemvalue="Application.foldLeftExample" />
+        <item itemvalue="Application.digitsToInt" />
         <item itemvalue="Application.exercise21712" />
         <item itemvalue="Application.exercise21711" />
-        <item itemvalue="Application.exercise21710" />
-        <item itemvalue="Application.exercise2179" />
-        <item itemvalue="Application.exercise2178" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +184,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
