@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/ExtractDigitsFromSequence.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/digitsToInt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/foldLeftExample.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/foldLeft.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/scanLeftWithFoldLeft.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/tailRecursion.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2261.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2262.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2263.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2264FilterMap.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2265byLength.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2266ByWeight.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2267GroupBy.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress" beforeDir="false" afterPath="$PROJECT_DIR$/progress" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExtractDigitsFromSequence">
-    <configuration name="ExtractDigitsFromSequence" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.ExtractDigitsFromSequence" />
+  <component name="RunManager" selected="Application.scanLeftWithFoldLeft">
+    <configuration name="exercise2264" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.usingFoldLeft226.exercise2264FilterMap" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.doneExamples.*" />
+          <option name="PATTERN" value="tsofp.chapter2.exercises.usingFoldLeft226.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="digitsToInt" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.digitsToInt" />
+    <configuration name="exercise2265" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.usingFoldLeft226.exercise2265byLength" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.doneExamples.*" />
+          <option name="PATTERN" value="tsofp.chapter2.exercises.usingFoldLeft226.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise21711" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise21711" />
+    <configuration name="exercise2266" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.usingFoldLeft226.exercise2266ByWeight" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="PATTERN" value="tsofp.chapter2.exercises.usingFoldLeft226.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise21712" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise21712" />
+    <configuration name="exercise2267GroupBy" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.usingFoldLeft226.exercise2267GroupBy" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="PATTERN" value="tsofp.chapter2.exercises.usingFoldLeft226.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="foldLeftExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.foldLeftExample" />
+    <configuration name="scanLeftWithFoldLeft" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.scanLeftWithFoldLeft" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExtractDigitsFromSequence" />
-        <item itemvalue="Application.foldLeftExample" />
-        <item itemvalue="Application.digitsToInt" />
-        <item itemvalue="Application.exercise21712" />
-        <item itemvalue="Application.exercise21711" />
+        <item itemvalue="Application.scanLeftWithFoldLeft" />
+        <item itemvalue="Application.exercise2267GroupBy" />
+        <item itemvalue="Application.exercise2266" />
+        <item itemvalue="Application.exercise2265" />
+        <item itemvalue="Application.exercise2264" />
       </list>
     </recent_temporary>
   </component>
