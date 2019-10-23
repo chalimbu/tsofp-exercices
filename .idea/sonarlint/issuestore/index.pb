@@ -38,7 +38,13 @@ Ksrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2261.scala,0/
 Ksrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2262.scala,e/a/ea7d075e0f3fc02c0f5f95ce98cd4f90a6b09149
 {
 Ksrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2263.scala,f/e/fe3b337492d41608f853ec0da5cd3fa71af1f565
-{
-Ksrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2264.scala,b/1/b1865d03c6e7bad9aea31a26cfe1165038b4809d
-{
-Ksrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2265.scala,6/6/6645d263b8908fcaeb975c3419e3c086d757f319
+ƒ
+Ssrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2266ByWeight.scala,c/a/ca808f10dcdcbed8558e72ca41fcba05ebb12ae4
+ƒ
+Ssrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2265byLength.scala,6/8/68d4913f82b1816757019d3723a293875e29709c
+„
+Tsrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2264FilterMap.scala,a/6/a6aac90b356564e84cb2f9e528d59ab613f1c6f4
+‚
+Rsrc/main/scala/tsofp/chapter2/exercises/usingFoldLeft226/exercise2267GroupBy.scala,b/6/b648569bfabc3ea4411fce1d6f99f11ec690c9d4
+u
+Esrc/main/scala/tsofp/chapter2/doneExamples/scanLeftWithFoldLeft.scala,7/6/762a7eda75ba300d91e087c467da1b4d35c6e0f7
