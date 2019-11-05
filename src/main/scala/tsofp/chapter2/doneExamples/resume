@@ -1,0 +1,3 @@
+xs.foldLeft(b)(g) =>transform previous and next(Sequence) to ONE element
+Stream.iterate(b)(g) => creates A sequence base on operations over one element
+xs.scanLeft(b)(g) => makes a sequence throug operating another sequence
