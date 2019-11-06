@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/binSearch.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/example25112.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/example2519loopdetection.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/resume" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/section23/digitsOf.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/section24sequencetosequence/partialSum.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/doneExamples/stream.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2521.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2522.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2523.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2524.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2525SetsFromSets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2526.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2527.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2528.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progress" beforeDir="false" afterPath="$PROJECT_DIR$/progress" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,35 +47,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise2523">
-    <configuration name="example25112" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.example25112" />
-      <module name="tsofp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.doneExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="example2519loopdetection" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.doneExamples.example2519loopdetection" />
-      <module name="tsofp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.doneExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exercise2521" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2521" />
+  <component name="RunManager" selected="Application.exercise2528">
+    <configuration name="exercise2524" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2524" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2522" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2522" />
+    <configuration name="exercise2525" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2525SetsFromSets" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +74,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2523" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2523" />
+    <configuration name="exercise2526" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2526" />
+      <module name="tsofp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise2527" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2527" />
+      <module name="tsofp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise2528" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2528" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exercise2523" />
-        <item itemvalue="Application.example2519loopdetection" />
-        <item itemvalue="Application.exercise2522" />
-        <item itemvalue="Application.exercise2521" />
-        <item itemvalue="Application.example25112" />
+        <item itemvalue="Application.exercise2528" />
+        <item itemvalue="Application.exercise2527" />
+        <item itemvalue="Application.exercise2526" />
+        <item itemvalue="Application.exercise2525" />
+        <item itemvalue="Application.exercise2524" />
       </list>
     </recent_temporary>
   </component>
