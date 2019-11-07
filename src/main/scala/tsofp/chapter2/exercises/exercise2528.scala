@@ -6,4 +6,10 @@ object exercise2528 extends App{
   }
   println(revDigits(12345))
   //54321
+  def isPalindrome(n:Int): Boolean={
+    (n==revDigits(n))
+  }
+  println(isPalindrome(101))
+  //true
+  println(isPalindrome(23))
 }

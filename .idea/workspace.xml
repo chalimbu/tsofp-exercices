@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2524.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2525SetsFromSets.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2526.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2527.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2528.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25210.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2529.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2528.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2528.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,13 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -33,7 +40,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Sura en Linea/ms-maestros-sel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,9 +54,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise2528">
-    <configuration name="exercise2524" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2524" />
+  <component name="RunManager" selected="Application.exercise25211">
+    <configuration name="exercise25210" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25210" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -61,21 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2525" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2525SetsFromSets" />
-      <module name="tsofp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exercise2526" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2526" />
+    <configuration name="exercise25211" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25211" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise2529" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2529" />
+      <module name="tsofp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise25211" />
+        <item itemvalue="Application.exercise25210" />
+        <item itemvalue="Application.exercise2529" />
         <item itemvalue="Application.exercise2528" />
         <item itemvalue="Application.exercise2527" />
-        <item itemvalue="Application.exercise2526" />
-        <item itemvalue="Application.exercise2525" />
-        <item itemvalue="Application.exercise2524" />
       </list>
     </recent_temporary>
   </component>
