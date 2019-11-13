@@ -1,6 +1,6 @@
 package tsofp.chapter2.exercises
 
-object exercise25211 extends App{
+object exercise25211PerfectNumbers extends App{
   def largestInIntervalWithRestriction(li:Int,ls:Int)={
     (li to ls).filter(x=>{
       val digits=LazyList.iterate(x){_/10}.takeWhile(_>0).map(_%10).toList

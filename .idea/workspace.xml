@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25212removeRepeateds.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25213.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25214.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2529.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2529.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211PerfectNumbers.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise25211">
+  <component name="RunManager" selected="Application.exercise25214">
     <configuration name="exercise25210" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25210" />
       <module name="tsofp" />
@@ -66,7 +68,7 @@
       </method>
     </configuration>
     <configuration name="exercise25211" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25211" />
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25211PerfectNumbers" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2527" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2527" />
+    <configuration name="exercise25212" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25212removeRepeateds" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2528" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2528" />
+    <configuration name="exercise25213" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25213" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise2529" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise2529" />
+    <configuration name="exercise25214" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25214" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise25214" />
+        <item itemvalue="Application.exercise25213" />
+        <item itemvalue="Application.exercise25212" />
         <item itemvalue="Application.exercise25211" />
         <item itemvalue="Application.exercise25210" />
-        <item itemvalue="Application.exercise2529" />
-        <item itemvalue="Application.exercise2528" />
-        <item itemvalue="Application.exercise2527" />
       </list>
     </recent_temporary>
   </component>
