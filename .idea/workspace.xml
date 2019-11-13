@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25210.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2529.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2528.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2528.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25211.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2529.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise2529.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +37,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Sura en Linea/ms-maestros-sel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

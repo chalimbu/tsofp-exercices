@@ -4,7 +4,8 @@ import scala.annotation.tailrec
 
 object exercise2529 extends App{
   def revDigits(n: Long): Long = {
-    LazyList.iterate(n){_/10}.takeWhile(_>0).map(_%10).toList.mkString("").toInt
+    LazyList.iterate(n){_/10}
+      .takeWhile(_>0).map(_%10).toList.mkString("").toInt
   }
   def isPalindrome(n:Long): Boolean={
     (n==revDigits(n))
