@@ -82,5 +82,13 @@ j
 :src/main/scala/tsofp/chapter2/exercises/exercise2529.scala,2/a/2ad439f20eef010918f91c6165bc6f9f5625761b
 k
 ;src/main/scala/tsofp/chapter2/exercises/exercise25210.scala,1/3/13e9547bd555355183f1672a44742e01b7961591
+z
+Jsrc/main/scala/tsofp/chapter2/exercises/exercise25212removeRepeateds.scala,6/9/69d02fa91ef230e5c683100a93306b6d48635406
+y
+Isrc/main/scala/tsofp/chapter2/exercises/exercise25211PerfectNumbers.scala,d/1/d1dc8cffa67b8781e3c0fb8eff3060fe60c0f0f9
 k
-;src/main/scala/tsofp/chapter2/exercises/exercise25211.scala,2/1/216ddb640af515b0c6594ca4b888ec30e680baf2
+;src/main/scala/tsofp/chapter2/exercises/exercise25214.scala,d/c/dc712bee3127144e31c1cb60ca80d94bd66ee693
+k
+;src/main/scala/tsofp/chapter2/exercises/exercise25213.scala,b/4/b41f5dc533c4534b3760262abfd1d4b7dbdda4ab
+k
+;src/main/scala/tsofp/chapter2/exercises/exercise25215.scala,0/6/0657b30f939b9e5e7b82e9df07562b33cf1b6886
