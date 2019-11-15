@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25215.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25215subsequenceBigger.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25216.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25214.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25214.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress" beforeDir="false" afterPath="$PROJECT_DIR$/progress" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter2/exercises/exercise25215.scala" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,20 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exercise25215">
-    <configuration name="exercise25211" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25211PerfectNumbers" />
-      <module name="tsofp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exercise25216">
     <configuration name="exercise25212" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25212removeRepeateds" />
       <module name="tsofp" />
@@ -107,7 +94,20 @@
       </method>
     </configuration>
     <configuration name="exercise25215" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25215" />
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25215subsequenceBigger" />
+      <module name="tsofp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise25216" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25216" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise25216" />
         <item itemvalue="Application.exercise25215" />
         <item itemvalue="Application.exercise25214" />
         <item itemvalue="Application.exercise25213" />
         <item itemvalue="Application.exercise25212" />
-        <item itemvalue="Application.exercise25211" />
       </list>
     </recent_temporary>
   </component>
