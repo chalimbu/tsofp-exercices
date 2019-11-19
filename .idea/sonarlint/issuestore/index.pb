@@ -90,5 +90,11 @@ k
 ;src/main/scala/tsofp/chapter2/exercises/exercise25214.scala,d/c/dc712bee3127144e31c1cb60ca80d94bd66ee693
 k
 ;src/main/scala/tsofp/chapter2/exercises/exercise25213.scala,b/4/b41f5dc533c4534b3760262abfd1d4b7dbdda4ab
+|
+Lsrc/main/scala/tsofp/chapter2/exercises/exercise25215subsequenceBigger.scala,2/2/2261f93c507ecfb7569347a3071af71608ea08be
 k
-;src/main/scala/tsofp/chapter2/exercises/exercise25215.scala,0/6/0657b30f939b9e5e7b82e9df07562b33cf1b6886
+;src/main/scala/tsofp/chapter2/exercises/exercise25216.scala,8/7/87738bf52501fddf98da46a2efdf9e45a7aca5d8
+w
+Gsrc/main/scala/tsofp/chapter3/doneExample/patterMatchingCaseClass.scala,6/e/6e087a4b29de98ccb0901d06db47d67bbe66a813
+r
+Bsrc/main/scala/tsofp/chapter3/doneExample/example3221RootOfQ.scala,0/0/00d15615a6689d231785be12836419f83f4d205f
