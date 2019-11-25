@@ -98,3 +98,5 @@ w
 Gsrc/main/scala/tsofp/chapter3/doneExample/patterMatchingCaseClass.scala,6/e/6e087a4b29de98ccb0901d06db47d67bbe66a813
 r
 Bsrc/main/scala/tsofp/chapter3/doneExample/example3221RootOfQ.scala,0/0/00d15615a6689d231785be12836419f83f4d205f
+u
+Esrc/main/scala/tsofp/chapter3/doneExample/optionWithCollections.scala,4/9/4960cae6643de09f78c7bb69aa3ae1f0c2973dc5
