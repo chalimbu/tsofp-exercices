@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/optionWithCollections.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tailRecursionList332/mapTail.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tailRecursionList332/example3322reverseNEL.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progress" beforeDir="false" afterPath="$PROJECT_DIR$/progress" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tailRecursionList332/mapTail.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tailRecursionList332/mapTail.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.optionWithCollections">
+  <component name="RunManager" selected="Application.mapTail">
     <configuration name="example3221RootOfQ" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.doneExample.example3221RootOfQ" />
       <module name="tsofp" />
@@ -67,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise25215" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25215subsequenceBigger" />
+    <configuration name="exercise25216" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25216" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercise25216" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter2.exercises.exercise25216" />
+    <configuration name="mapTail" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.doneExample.tailRecursionList332.mapTail" />
       <module name="tsofp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tsofp.chapter2.exercises.*" />
+          <option name="PATTERN" value="tsofp.chapter3.doneExample.tailRecursionList332.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mapTail" />
         <item itemvalue="Application.optionWithCollections" />
         <item itemvalue="Application.example3221RootOfQ" />
         <item itemvalue="Application.patterMatchingCaseClass" />
         <item itemvalue="Application.exercise25216" />
-        <item itemvalue="Application.exercise25215" />
       </list>
     </recent_temporary>
   </component>
