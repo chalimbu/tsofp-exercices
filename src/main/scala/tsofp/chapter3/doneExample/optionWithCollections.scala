@@ -9,4 +9,10 @@ object optionWithCollections extends App{
   println((15 to 100).headOption)
 
   //lift over (), get over ()
+
+  println((1 to 10).find{x=>true}.getOrElse("None"))
+  val map= Map(10 -> "a",20 -> "b")
+  println(s"printing a get that does not exist ${map.get(2)}")
+  println(map.get(10))
+
 }
