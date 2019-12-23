@@ -7,20 +7,21 @@ object exercise3353RegularShapedTreeFoldLeft extends App{
   final case class Leaf[A](x: A) extends RTree[A]
   final case class Branch[A](xs: RTree[(A,A)]) extends RTree[A]
 
+  //solution from
+  //https://stackoverflow.com/questions/59430145/regular-shaped-tree-fold-left-scala-implementation
   @tailrec
-  def foldLeft[A,R](t: RTree[A])(init: R)(f: (R,A)=>R): R={
+  def foldLeft[A,R](t: RTree[A])(init: R)(f: (R,A)=>R): R= {
     t match {
-      case Leaf(x) => f(init,x)
+      case Leaf(x) => f(init, x)
       case Branch(xs) =>
-        xs match{
-          case Branch()=>
+        foldLeft(xs)(init) { case (interInit, (leftT, rightT)) => {
+          f(f(interInit, leftT), rightT)
         }
-        foldLeft(xs)(init){case (x,y)=>(f(init,x),f(init,y)))}
-
+        }
     }
   }
 
   println(foldLeft(Branch(Branch(Leaf(((1,2),(3,4))))))(0)(_+ _))
   //10
-  //println(foldLeft(Branch(Branch(Leaf((("a","b"),("c","d"))))))("")(_ + _))
+  println(foldLeft(Branch(Branch(Leaf((("a","b"),("c","d"))))))("")(_ + _))
 }

@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14400b9b-cb97-4fe3-b1ef-e0738bb37662" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tailRecursionList332/recursiveDisjunctiveType.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tryAnotations.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exampleFoldLeftNEl.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3323NelToList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3324MapToNel.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3325concatenateNel.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3352depthOfRegularShapped.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3353RegularShapedTreeFoldLeft.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/trees/binaryTree.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/trees/regularShapedThre.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/trees/roseTree.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3421.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3423.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/trees/AbstractSintaxTree.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/progress" beforeDir="false" afterPath="$PROJECT_DIR$/progress" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/optionWithCollections.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/optionWithCollections.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tailRecursionList332/example3322reverseNEL.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/doneExample/tailRecursionList332/example3322reverseNEL.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3353RegularShapedTreeFoldLeft.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/tsofp/chapter3/exercises/exercise3353RegularShapedTreeFoldLeft.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,33 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.exercise3353RegularShapedTreeFoldLeft">
-    <configuration name="binaryTree" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.trees.binaryTree" />
-      <module name="tsofp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tsofp.chapter3.trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exampleFoldLeftNEl" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.exercises.exampleFoldLeftNEl" />
-      <module name="tsofp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tsofp.chapter3.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exercise3423">
     <configuration name="exercise3352depthOfRegularShapped" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.exercises.exercise3352depthOfRegularShapped" />
       <module name="tsofp" />
@@ -113,6 +72,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercise3421" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.exercises.exercise3421" />
+      <module name="tsofp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsofp.chapter3.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise3423" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.exercises.exercise3423" />
+      <module name="tsofp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tsofp.chapter3.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="roseTree" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="tsofp.chapter3.trees.roseTree" />
       <module name="tsofp" />
@@ -128,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise3423" />
+        <item itemvalue="Application.exercise3421" />
         <item itemvalue="Application.exercise3353RegularShapedTreeFoldLeft" />
         <item itemvalue="Application.exercise3352depthOfRegularShapped" />
         <item itemvalue="Application.roseTree" />
-        <item itemvalue="Application.exampleFoldLeftNEl" />
-        <item itemvalue="Application.binaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -234,33 +219,37 @@
     <state x="2198" y="203" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576699753910" />
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1575551541634" />
     <state x="1424" y="225" width="424" height="491" key="FileChooserDialogImpl/0.27.3286.1053@0.27.3286.1053" timestamp="1576764574990" />
-    <state width="1874" height="135" key="GridCell.Tab.0.bottom" timestamp="1576708217342">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1320" height="131" key="GridCell.Tab.0.bottom" timestamp="1577131220820">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="82" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575910499112" />
     <state width="1320" height="228" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1575410402868" />
     <state width="1874" height="135" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576708217342" />
+    <state width="1320" height="131" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1577131220820" />
     <state width="1874" height="370" key="GridCell.Tab.0.bottom/0.27.3286.1053@0.27.3286.1053" timestamp="1575655629834" />
-    <state width="1874" height="135" key="GridCell.Tab.0.center" timestamp="1576708217341">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1320" height="131" key="GridCell.Tab.0.center" timestamp="1577131220819">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="82" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575910499112" />
     <state width="1320" height="228" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1575410402868" />
     <state width="1874" height="135" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576708217341" />
+    <state width="1320" height="131" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1577131220819" />
     <state width="1874" height="370" key="GridCell.Tab.0.center/0.27.3286.1053@0.27.3286.1053" timestamp="1575655629833" />
-    <state width="1874" height="135" key="GridCell.Tab.0.left" timestamp="1576708217341">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1320" height="131" key="GridCell.Tab.0.left" timestamp="1577131220819">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="82" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575910499112" />
     <state width="1320" height="228" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1575410402868" />
     <state width="1874" height="135" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576708217341" />
+    <state width="1320" height="131" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1577131220819" />
     <state width="1874" height="370" key="GridCell.Tab.0.left/0.27.3286.1053@0.27.3286.1053" timestamp="1575655629832" />
-    <state width="1874" height="135" key="GridCell.Tab.0.right" timestamp="1576708217342">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1320" height="131" key="GridCell.Tab.0.right" timestamp="1577131220820">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1320" height="82" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1366.768@1366.0.1366.768" timestamp="1575910499112" />
     <state width="1320" height="228" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1575410402868" />
     <state width="1874" height="135" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1576708217342" />
+    <state width="1320" height="131" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1577131220820" />
     <state width="1874" height="370" key="GridCell.Tab.0.right/0.27.3286.1053@0.27.3286.1053" timestamp="1575655629833" />
     <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576762509116">
       <screen x="0" y="27" width="1366" height="741" />
