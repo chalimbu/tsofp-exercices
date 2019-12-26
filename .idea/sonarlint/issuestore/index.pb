@@ -126,3 +126,9 @@ k
 ;src/main/scala/tsofp/chapter3/trees/regularShapedThre.scala,e/6/e640938c9eee831fcdc88697f9dcda6733f5d5a8
 ƒ
 Ssrc/main/scala/tsofp/chapter3/exercises/exercise3353RegularShapedTreeFoldLeft.scala,1/e/1ea182bcb537d8c72a7af913578ad12075264ee7
+l
+<src/main/scala/tsofp/chapter3/trees/AbstractSintaxTree.scala,0/a/0a4feb27c9f31e68560cbe378647004be606b1ae
+j
+:src/main/scala/tsofp/chapter3/exercises/exercise3421.scala,6/6/66df118a9a5b9c68f75413c45465c38469d8a468
+j
+:src/main/scala/tsofp/chapter3/exercises/exercise3423.scala,7/6/7649b03a32a115935ba6c3f23f1dc46868da1c2f
