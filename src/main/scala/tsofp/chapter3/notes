@@ -1,0 +1,6 @@
+T                 T
+A X B             (A,B)
+A + B, A V B      Either(A,B)
+A => B            A=>B
+1                 Unit
+0                 Nothing

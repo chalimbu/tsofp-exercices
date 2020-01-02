@@ -1,0 +1,6 @@
+A => B => C == A=>(B=>C)    curried function
+(A,B) => C     uncurried function
+
+curried, uncurried
+compose
+const( a function that is no applied but directly the value passed)

@@ -132,3 +132,19 @@ j
 :src/main/scala/tsofp/chapter3/exercises/exercise3421.scala,6/6/66df118a9a5b9c68f75413c45465c38469d8a468
 j
 :src/main/scala/tsofp/chapter3/exercises/exercise3423.scala,7/6/7649b03a32a115935ba6c3f23f1dc46868da1c2f
+9
+	build.sbt,7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847
+j
+:src/main/scala/tsofp/chapter3/exercises/exercise3425.scala,d/d/dde5792a0f7495d694027dccae2758e3b7f74afb
+j
+:src/main/scala/tsofp/chapter3/exercises/exercise3426.scala,4/3/43df8c702764f2fade0ba0c0dcd91016fa07daf3
+j
+:src/main/scala/tsofp/chapter3/exercises/exercise3427.scala,7/b/7bec599fa256c64b49c3f2c502b03ddf91627cfb
+j
+:src/main/scala/tsofp/chapter3/exercises/exercise3428.scala,3/2/32039a87edfc003dbf12fd5c7da2fa90f0210561
+S
+#src/main/scala/tsofp/chapter3/notes,0/b/0b5f9195246fee9586c31a26dbd894cbcef115bc
+f
+6src/main/scala/tsofp/chapter4/forwardComposition.scala,a/0/a0d1f2a91809946f0b07b2256bc6ac3a8ec6c653
+S
+#src/main/scala/tsofp/chapter4/notes,d/c/dc23492af5272f28d760399ff2e300a13bca6993
